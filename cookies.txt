@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+dc.crsorgi.gov.in.crs.vievvcert.info	TRUE	/	FALSE	1999999999	page	%2FverifyCertificate%3Fid%3DVFhwck5RPT0%3D%26n%3DUFJJWUFOU0hVIEtVTUFS%3D%253D%253D
+.dc.crsorgi.gov.in	TRUE	/	FALSE	1999999999	TS01ba0a42	01e3182d358f48a2ee210d8d901964b3f432ce785dcce13a4bc1d08c17bea5c7acbb54908bd3771dd0cf172207c842a6993511c951
+
